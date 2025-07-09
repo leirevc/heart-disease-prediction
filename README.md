@@ -25,7 +25,7 @@ heart-disease-prediction/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/leirevc/heart-disease-prediction.git
+git clone https://github.com/leirevc/heart-disease-prediction
 cd heart-disease-prediction
 
 ````
